@@ -47,9 +47,9 @@ MVP do Projeto:
 # Tecnologias Utilizadas:
 
 
-Linguagem: Html, Css e Javascript
+Linguagem: Html, Css, Javascript e java
 
-Banco de Dados: MySQL
+
 
 Apresentar o <strong>petDoe<strong/><br>
-Responsável: Ana
+
